@@ -4,9 +4,6 @@
 
 This project presents a deep learning-based automated system for diabetic retinopathy (DR) severity classification using EfficientNet-B0 architecture. The system analyzes retinal fundus photographs to classify DR severity across five categories, achieving 76.47% validation accuracy with substantial clinical agreement (κ = 0.6279).
 
-## 🚨 Clinical Status
-
-**⚠️ NOT RECOMMENDED FOR CLINICAL USE**
 
 While the model shows excellent performance on common cases (No_DR: 97% F1-score), it has critical limitations in detecting severe cases that require immediate medical attention. The system requires significant improvements before clinical deployment.
 
@@ -199,9 +196,6 @@ diabetic-retinopathy-classification/
 - **Inference Time**: <1 second per image
 - **Model Size**: 4.21M parameters
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our contributing guidelines and submit pull requests for any improvements.
 
 ### Priority Areas for Contribution
 1. Class imbalance mitigation techniques
@@ -210,9 +204,6 @@ Contributions are welcome! Please read our contributing guidelines and submit pu
 4. Clinical validation protocols
 5. Production optimization
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔬 Citation
 
@@ -228,9 +219,6 @@ If you use this work in your research, please cite:
 }
 ```
 
-## 📞 Contact
-
-For questions or collaboration opportunities, please open an issue or contact the maintainers.
 
 ## ⚡ Quick Start
 
